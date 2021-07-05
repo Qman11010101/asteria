@@ -8,6 +8,7 @@ header {
     background-color: aqua;
     width: 100%;
     padding: 10px;
+    vertical-align: middle;
 }
 
 header .nav {
@@ -15,13 +16,16 @@ header .nav {
 }
 
 .title_logo {
-    font-size: 30px;
+    padding: 20px;
     display: inline-block;
     margin-right: 30px;
 }
 
+.title_logo img{
+    width: 150px;
+}
+
 header li {
-    text-align:right;
     display: inline-block;
     margin: 10px;
 }
