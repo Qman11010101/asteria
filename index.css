@@ -1,0 +1,27 @@
+/* ヘッダー */
+body {
+    width: 1000px;
+    margin:0 auto;
+}
+
+header {
+    background-color: aqua;
+    width: 100%;
+    padding: 10px;
+}
+
+header .nav {
+    display: inline-block;
+}
+
+.title_logo {
+    font-size: 30px;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+header li {
+    text-align:right;
+    display: inline-block;
+    margin: 10px;
+}
