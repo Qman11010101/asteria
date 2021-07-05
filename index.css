@@ -40,6 +40,27 @@ header li {
     font-family: 'Kiwi Maru', serif;
 }
 
+/* トップページ */
+
+.blur, .blur > img {
+    margin: 0; padding: 0;
+    border: 0;
+}
+
+.blur {
+    position: relative;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+}
+
+.blur:after {
+    position: absolute;
+    left: 0; top: 0; right: 0; bottom: 0;
+    box-shadow: inset 0px 0px 15px 15px #000;
+    content: " ";
+}
+
 /* あらすじ */
 
 .story_body {
