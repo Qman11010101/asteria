@@ -82,20 +82,3 @@ header li {
 .logo_eng {
     font-size: 50%;
 }
-
-/* あらすじ */
-
-.story_body {
-    text-align: center;
-    margin: 30px 0;
-}
-
-.story_body p {
-    font-family: 'Kiwi Maru', serif;
-    font-size: 130%;
-    line-height: 2;
-}
-
-.story_body p span {
-    font-size: 80%;
-}
