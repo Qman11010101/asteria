@@ -1,36 +1,37 @@
 .character_text {
- margin: 20px;
+    margin: 20px;
 }
 
 .character_image {
-  margin: 20px;
+    margin: 20px;
 }
 
 .character_image img {
-  width: 200px;
-  object-fit: cover;
+    width: 200px;
+    object-fit: cover;
 }
 
 .character_text p {
-  width: 200px;
-  font-family: 'Kiwi Maru', serif;
+    width: 500px;
+    font-family: 'Kiwi Maru', serif;
 }
 
 .character_data p {
- font-size: 12px;
- font-family: 'Kiwi Maru', serif;
+    font-size: 16px;
+    font-family: 'Kiwi Maru', serif;
 }
 
 .character_text_detail {
-  font-size: 14px;
-  font-family: 'Kiwi Maru', serif;
+    font-size: 18px;
+    font-family: 'Kiwi Maru', serif;
 }
 
 .character {
-  display: flex;
-  justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
 .character_name {
-  font-family: 'Kiwi Maru', serif;
+    font-family: 'Kiwi Maru', serif;
+    font-size: 30px;
 }
