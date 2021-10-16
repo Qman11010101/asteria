@@ -40,3 +40,8 @@
 .logo_eng {
     font-size: 50%;
 }
+
+.swiper-container {
+    width: 600px;
+    height: 300px;
+}
