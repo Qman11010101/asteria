@@ -50,3 +50,10 @@
     width: 100%;
     object-fit: cover;
 }
+
+.twitter {
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
